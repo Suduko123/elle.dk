@@ -138,8 +138,7 @@ main {
 }
 
 .dropdown-content .dropheading {
-    font-size: 13pt;
-    text-transform: uppercase;
+    font-size: 15pt;
 }
 
 .afsnit {
@@ -159,9 +158,9 @@ main {
     border-bottom: 1px black solid;
 }
 .underdrop a {
-    font-size: 12pt;
-    text-transform: uppercase;
+    font-size: 13pt;
 }
+
 
 .rester {
     display: flex;
@@ -174,12 +173,11 @@ main {
     padding-bottom: 10px;
 }
 .rester i {
-    font-size: 15pt;
+    font-size: 12pt;
 }
 .rester input {
     float: right;
     padding: 6px;
-    margin-top: 5px;
     border: 1px black solid;
     width: 200px;
     height: 60%;
